@@ -1,0 +1,10 @@
+PySide6
+construct
+pillow
+pandas
+rich
+pyqtgraph
+python-magic-bin; sys_platform == 'win32'
+python-magic; sys_platform != 'win32'
+pyyaml
+ndspy
